@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.smr.extend.feature"
+      label="org.smr.extend.feature"
+      version="1.0.0.qualifier"
+      provider-name="Prawathiya Karsa Pradiptha"
+      plugin="org.smr.extend">
+
+   <description url="http://www.example.com/description">
+      [Enter Feature Description here.]
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <requires>
+      <import plugin="org.adempiere.base" version="6.2.0" match="greaterOrEqual"/>
+      <import plugin="org.adempiere.plugin.utils" version="6.2.0" match="greaterOrEqual"/>
+      <import plugin="org.adempiere.ui" version="6.2.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.osgi.services" version="3.7.100" match="greaterOrEqual"/>
+      <import plugin="org.adempiere.ui.zk" version="6.2.0" match="greaterOrEqual"/>
+      <import plugin="org.idempiere.zk.extra" version="6.2.0" match="greaterOrEqual"/>
+      <import plugin="zk" version="8.6.0" match="greaterOrEqual"/>
+      <import plugin="zul" version="8.6.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.smr.extend"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.qualifier"
+         unpack="false"/>
+
+</feature>
