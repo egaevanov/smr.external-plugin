@@ -1,1 +1,1 @@
-# smr.external-plugin aaaa
+# smr.external-plugin
