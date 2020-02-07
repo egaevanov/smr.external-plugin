@@ -1,1 +1,0 @@
-# smr.external-plugin abc
