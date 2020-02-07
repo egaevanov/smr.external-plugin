@@ -1,1 +1,1 @@
-# smr.external-plugin asda
+# smr.external-plugin
